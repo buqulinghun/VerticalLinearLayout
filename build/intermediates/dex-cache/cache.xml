@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\AndroidCDCode\AndroidHeroes-master\6.draw\VerticalLinearLayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0d930140945c96325f6ad917eedad9bf4e74fa51">
+        <dex dex="G:\AndroidCDCode\AndroidHeroes-master\6.draw\VerticalLinearLayout\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_75f574e914ec66a7874ce1fe3b358ca93346972c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="G:\AndroidCDCode\AndroidHeroes-master\6.draw\VerticalLinearLayout\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_ee3d0a3611a76518ecc6afa08070141a0cfd86bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidCDCode\AndroidHeroes-master\6.draw\VerticalLinearLayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="956a624075830f89a2d4bb73ec3f952668f3d9cd">
+        <dex dex="G:\AndroidCDCode\AndroidHeroes-master\6.draw\VerticalLinearLayout\app\build\intermediates\pre-dexed\debug\instant-run_b41eca2a520b98cee717f675d5d666c1c56bef51.jar" />
+    </item>
+
+</items>

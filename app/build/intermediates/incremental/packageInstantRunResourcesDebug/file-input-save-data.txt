@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Apr 15 19:33:58 CST 2017
+2.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\w01.jpg
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+4.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\w04.jpg
+5.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\w05.jpg
+9.set=ANDROID_RESOURCE
+9.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+10.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\w03.jpg
+6.set=ANDROID_RESOURCE
+0.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=G\:\\AndroidCDCode\\AndroidHeroes-master\\6.draw\\VerticalLinearLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\w02.jpg
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
